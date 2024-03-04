@@ -1,0 +1,27 @@
+.headingStopWatch{
+    font-size: 6rem;
+}
+
+@media (min-width:576px) {
+    .headingStopWatch{
+        font-size: 9rem;
+    }
+}
+
+@media (min-width:768px) {
+    .headingStopWatch{
+        font-size: 12rem;
+    }
+}
+
+@media (min-width:992px) {
+    .headingStopWatch{
+        font-size: 16rem;
+    }
+}
+
+@media (min-width:1200px) {
+    .headingStopWatch{
+        font-size: 19rem;
+    }
+}

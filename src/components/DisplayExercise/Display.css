@@ -1,0 +1,14 @@
+.inputDisplay
+{
+    background-color: white;
+    color: black;
+    margin: 0.1rem;
+}
+.inputDisplay:disabled{
+    background-color: transparent;
+    border-color: transparent;
+    color: white;
+    text-align: center;
+    font-size: large;
+    font-weight: bolder;
+}
